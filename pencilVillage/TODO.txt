@@ -1,0 +1,10 @@
+Buildings
+    Rotate Buildings
+    Check that buildings are on correct terrain  ie Quarry, Farm and Mill
+    Check what terrain outpost is on.
+    Update available action list
+
+Print
+    Print action list
+    Print list of keys to press
+    Print resources and game info
